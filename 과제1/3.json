@@ -1,0 +1,10 @@
+{
+    "P1": {
+        "burst time" : 25,
+        "period" : 50
+    },
+    "P2": {
+        "burst time" : 50,
+        "period" : 100
+    }
+}

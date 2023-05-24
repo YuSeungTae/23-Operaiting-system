@@ -1,0 +1,27 @@
+{
+    "P1": {
+        "arrival time" : 0,
+        "burst time" : 30,
+        "Priority" : 1
+    },
+    "P2": {
+        "arrival time" : 0,
+        "burst time" : 30,
+        "Priority" : 1
+    },
+    "P3": {
+        "arrival time" : 0,
+        "burst time" : 30,
+        "Priority" : 2
+    },
+    "P4": {
+        "arrival time" : 0,
+        "burst time" : 30,
+        "Priority" : 2
+    },
+    "P5": {
+        "arrival time" :0,
+        "burst time" : 30,
+        "Priority" : 1
+    }
+}
